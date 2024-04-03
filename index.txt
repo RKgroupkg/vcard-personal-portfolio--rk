@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Rkgroup
 
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Rkgroup
+Developer 
 
 Show Contacts
 
 Email
-richard@example.com
+rkgroup5316@gmail.com
 
 Phone
-+1 (213) 352-2795
++919931218714
 
 Birthday
-June 23, 1982
+June 5, 2008
 
 Location
-Sacramento, California, USA
+Purnea,Bihar,India
 
 # navbar
 
@@ -32,10 +32,10 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a python devloper and Trying the field of software development. My journey started when i was 10 and now as a teenage 15 years old i still like programming Its very fun to me .
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+Currently i am studying for academic success and do coding as a free time hobby . My coding knowlage is mainly of c and python. I learned c for ardino and IOT projects as they are fun and gives immediate satisfaction.
+Overall i have experinced in python as i have build mutiple projects in this language.
 
 ## service
 
@@ -93,42 +93,40 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Ursline Convent English Medium School
+2010 — 2021
+Ursuline Convent English Medium School was founded in 1967 to provide an all round education to the youth. The School is run by the Sisters of the Order of St. Ursula, in collaboration with competent and qualified staff.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Vidya Vihar
+2021 — 2022
+Vidya Vihar Group of Institutions located at Purnia in Bihar is an educational group which is providing quality education to the meritorious children and youth at primary, secondary, tertiary and competitive exam levels.
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+St Peters 
+2023 — 20
+The school is the place of learning and nurturing oneself to excel in the life. Each student strives to achieve the goal and undergo all sorts of training and learning to unfolding truth of excellence. We always hope and excavate dreams to come true for this we are lead to the deep ocean of knowledge and experience of various hours of classrooms, awareness programs, indoor and outdoor games, exhibit & excel in the school premises.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Scartch
+2019 — 2023
+I created games and multiple project in scratch programming languge it had many limitation still i creted best projects i could create.
+C
+2022 — 2023
+I created Ardino robuts and project . had learned c langauge for this reason only. 
+Python
+2020 — present 
+I have made and learned basics and intermediate level of python and have worked on big projects like (malwares,Bots,api,Day to day basics projects)
 
 My skills
 
-Web design
-80%
-Graphic design
+Python
+85%
+C
+60%
+Html
 70%
-Branding
-90%
-WordPress
-50%
+WordPress/website
+80%
 
 
 
